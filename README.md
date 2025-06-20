@@ -57,7 +57,6 @@ Computer Science and Engineering undergraduate with a strong interest in buildin
 ![Dakshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=DakshitaSingh&show_icons=false&theme=default&hide_border=true&include_all_commits=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DakshitaSingh&layout=compact&hide_border=true)
 
-![GitHub Snake](https://raw.githubusercontent.com/DakshitaSingh/snk/output/github-snake.svg)
 
 
 
