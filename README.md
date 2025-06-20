@@ -6,7 +6,7 @@ Computer Science and Engineering undergraduate with a strong interest in buildin
 
 ## 🧑‍💼 About Me
 
-- 🎓 Second-year B.Tech CSE student (Batch: 2023–2027)
+- 🎓 Third-year B.Tech CSE student (Batch: 2023–2027)
 - ⚙️ Focused on full-stack development using the MERN stack
 - 📚 Strong foundation in Data Structures and Algorithms
 - 🧪 Exploring TypeScript, Appwrite, and Next.js
@@ -56,6 +56,8 @@ Computer Science and Engineering undergraduate with a strong interest in buildin
 
 ![Dakshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=DakshitaSingh&show_icons=false&theme=default&hide_border=true&include_all_commits=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DakshitaSingh&layout=compact&hide_border=true)
+
+![Contribution Snake](https://raw.githubusercontent.com/DakshitaSingh/DakshitaSingh/output/github-contribution-grid-snake.svg)
 
 ---
 
