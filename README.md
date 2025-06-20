@@ -38,20 +38,17 @@ Computer Science and Engineering undergraduate with a strong interest in buildin
 ## 📂 Projects to Check Out
 
 - 🛍️ [ShopMania – E-commerce Aggregator](https://github.com/DakshitaSingh/TheShopMania)  
-  Smart product comparison platform combining top online stores.
+  A smart product comparison platform that aggregates prices across top online stores, enhancing the shopping experience.  
+  👉 [Live Demo](https://the-shop-mania.vercel.app/)
 
-- ✉️ [Email Chrome Extension – Email Assistant](https://github.com/DakshitaSingh/EmailAssistant)  
-  Extension that enhances email productivity with quick response templates.
+- ✉️ [Email Assistant – Chrome Extension](https://github.com/DakshitaSingh/EmailAssistant)  
+  A productivity-focused Chrome extension for drafting quicker, smarter email responses.  
+  👉 [Try the Extension](https://portfolio-inky-chi-95.vercel.app/extension)
 
 - 🌐 [Portfolio Website](https://github.com/DakshitaSingh/Portfolio)  
-  Personal portfolio showcasing projects and skills.  
-  Live: [portfolio-inky-chi-95.vercel.app](https://portfolio-inky-chi-95.vercel.app)
+  A clean and responsive personal portfolio built with React and TailwindCSS.  
+  👉 [Live Site](https://portfolio-inky-chi-95.vercel.app/)
 
-- 📅 [Event-Ally](https://github.com/DakshitaSingh/event-ally)  
-  Event management platform for organizing and managing tech events.
-
-- 🌦️ [Weather App](https://github.com/DakshitaSingh/weather-app)  
-  Real-time weather updates using OpenWeather API.
 
 ---
 
