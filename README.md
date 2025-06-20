@@ -1,59 +1,69 @@
-<h2 align="center">✨ Hey there, I'm Dakshita Singh! ✨</h2>
+# Dakshita Singh
 
-<p align="center">
-  <em>A passionate CSE undergrad focused on building tech that matters 💡</em>
-</p>
+Computer Science and Engineering undergraduate with a deep interest in building impactful and scalable tech solutions. I enjoy solving real-world problems through code, and I’m consistently working on sharpening my skills in full-stack web development and competitive programming.
 
 ---
 
-### 👩‍💻 About Me
+### About Me
 
-- 🎓 I'm a Computer Science and Engineering student from [Your College Name]
-- 💻 I enjoy solving problems using **Data Structures & Algorithms**
-- 🌐 MERN Stack enthusiast exploring the world of full-stack development
-- 🛠️ Currently working on **Event-Ally** – an event management platform using **Next.js + Appwrite**
-- ✨ Eager to collaborate on open source and real-world impactful projects
-
----
-
-### 💡 What I Know
-
-#### 🚀 Languages
-`C++` `JavaScript` `TypeScript` `HTML` `CSS` `Java`
-
-#### 🔧 Tools & Frameworks
-`React` `Node.js` `Express` `MongoDB` `TailwindCSS` `Next.js` `Appwrite` `Git` `VS Code`
-
-#### 🧠 I'm Currently Learning:
-- TypeScript in depth
-- Advanced backend with Appwrite
-- System Design concepts
+- Second-year B.Tech CSE student (Batch: 2023–2027)
+- Strong foundation in Data Structures and Algorithms
+- Focused on full-stack development using the MERN stack
+- Currently exploring TypeScript, Appwrite, and Next.js
+- Active contributor to coding platforms and open-source projects
 
 ---
 
-### 📌 Projects I'm Proud Of
-- 🔗 **Event-Ally**: [Event Management App](https://github.com/yourusername/event-ally)
-- 🌦️ **Weather App**: Simple and interactive UI using OpenWeather API
-- 🛍️ **E-commerce Site**: Shopping platform with cart, auth, and product filtering
+### Coding Profiles
+
+- **LeetCode** – Solved 700+ problems, Max Rating: 1830 (Top 6.53%)  
+  [leetcode.com/u/Dakshita_Singh](https://leetcode.com/u/Dakshita_Singh/)
+
+- **Codeforces** – Pupil, Max Rating: 1349  
+  [codeforces.com/profile/Dakshita_Singh](https://codeforces.com/profile/Dakshita_Singh)
+
+- **CodeChef** – 2★, Max Rating: 1590  
+  [codechef.com/users/dakshitasingh](https://www.codechef.com/users/dakshitasingh)
 
 ---
 
-### 📊 GitHub Stats
+### Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dakshitasingh123&show_icons=true&theme=radical" alt="Dakshita's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakshitasingh123&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### 📫 Let's Connect!
-- 📧 Email: dakshitasingh2222@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/dakshita-singh](https://linkedin.com/in/dakshita-singh)
-- 💻 Portfolio: *(Coming Soon...)*
+**Languages:** C++, JavaScript, TypeScript, Java, HTML, CSS  
+**Frameworks/Libraries:** React, Node.js, Express, MongoDB, Next.js, TailwindCSS  
+**Tools & Platforms:** Git, GitHub, VS Code, Appwrite, Chrome Extensions
 
 ---
 
-<p align="center">
-  🌟 *"Bytes of brilliance, compiled with passion."* 🌟
-</p>
+### Projects to Check Out
+
+- [ShopMania – E-commerce Aggregator](https://github.com/DakshitaSingh/TheShopMania)  
+  A smart product comparison platform combining top online stores for optimized shopping.
+
+- [Email Chrome Extension – Email Assistant](https://github.com/DakshitaSingh/EmailAssistant)  
+  Chrome extension that enhances email productivity with quick response templates.
+
+- [Portfolio Website](https://github.com/DakshitaSingh/Portfolio)  
+  Personal portfolio showcasing projects, skills, and contact built using React and deployed via Vercel.  
+  Live: [portfolio-inky-chi-95.vercel.app](https://portfolio-inky-chi-95.vercel.app/)
+
+- [Event-Ally](https://github.com/DakshitaSingh/event-ally)  
+  Event management app for organizing and tracking college or tech events.
+
+- [Weather App](https://github.com/DakshitaSingh/weather-app)  
+  Real-time weather updates using the OpenWeather API with a clean UI.
+
+---
+
+### GitHub Stats
+
+![Dakshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=DakshitaSingh&show_icons=false&theme=default&hide_border=true&include_all_commits=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DakshitaSingh&layout=compact&hide_border=true)
+
+---
+
+### Connect with Me
+
+- LinkedIn: [linkedin.com/in/dakshita-singh-784557281](https://www.linkedin.com/in/dakshita-singh-784557281/)
+- Email: dakshitasingh2222@gmail.com
+- Portfolio: [portfolio-inky-chi-95.vercel.app](https://portfolio-inky-chi-95.vercel.app)
